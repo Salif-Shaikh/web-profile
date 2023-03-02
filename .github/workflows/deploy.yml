@@ -1,5 +1,5 @@
-name: web-profile-project
+# name: web-profile-project
 
-on:
-  push:
-    branches: -main
+# on:
+#   push:
+#     branches: -main
